@@ -1,6 +1,7 @@
 # Locked
 
-<p>A secure chat platform created for normal people.</p>
+<p>An anonymous chat platform.</p>
+<p>Any issues, please refer to [issues](https://github.com/cw-e/locked/issues)</p>
 
 <h2>Features</h2>
 <p>End to End Encryption</p>

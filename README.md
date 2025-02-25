@@ -1,6 +1,6 @@
 # Locked
 
-<p style='center'>A secure chat platform created for normal people.</p>
+<p style='text-center'>A secure chat platform created for normal people.</p>
 
 <h2>Features</h2>
 <p>End to End Encryption</p>

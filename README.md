@@ -7,3 +7,5 @@
 <p>No Logging Policy</p>
 <p>No location, No email, No phone</p>
 <p>Customizable Profile</p>
+<p>Profile Badges</p>
+<p>Live Support</p>
